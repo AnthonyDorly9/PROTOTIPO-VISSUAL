@@ -69,6 +69,4 @@ Los paneles BTOUCH no incluyen Google Play Services, por lo que **App Actions / 
 
 Proyecto en fase inicial — estructura de carpetas y arquitectura base definidas. En construcción: `NavGraph`, pantallas base (atractor/selector) y wrapper de Vosk.
 
-## 👤 Autor
 
-Anthony Dorly Huilahuaña Chata — Estudiante de Ingeniería de Software con IA (SENATI, PIAD) · Practicante en Brighter Perú S.A.C.
